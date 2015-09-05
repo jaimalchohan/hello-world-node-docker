@@ -1,0 +1,7 @@
+{
+  "name": "docker-helloworld",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js Hello World app on using docker",
+  "author": "Jaimal Chohan <jaimal.chohan@just-eat.com>"
+}
